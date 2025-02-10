@@ -15,17 +15,6 @@ O **Jogo do Número Secreto** é um jogo simples em que o jogador deve adivinhar
 - **CSS**: estilização do jogo
 - **JavaScript**: lógica do jogo e interatividade
 
-## Como executar o projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-do-numero-secreto.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd jogo-do-numero-secreto
-   ```
-3. Abra o arquivo `index.html` em um navegador.
-
 ## Melhorias futuras
 - Adicionar níveis de dificuldade
 - Melhorar o design e responsividade
